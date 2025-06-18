@@ -48,23 +48,23 @@ How to Get into Pogo Games
 
 We've talked about the benefits, so now let's talk about how to log in to Pogo Games. No matter how long you've been playing, it's easy and quick to sign in.
 
-### Step 1: Make an Account
+**Step 1: Make an Account**
 
 If this is your first time using Pogo, the first thing you need to do is make an account. To do this, go to the Pogo website and click on the link that says "Sign Up" or "Create Account." You will need to enter a valid email address, pick a username, and make a strong password. They might also ask you for more information, like where and when you were born.
 
 After you fill out all the required fields, Pogo may send you an email to confirm your email address. This step makes sure that your account is linked to a real email address and stops people from making fake accounts.
 
-### Step 2: Sign In to Your Account
+**Step 2: Sign In to Your Account**
 
 After you make your account, you can go back to the Pogo homepage and click on "Sign In" or "Log In." Please type in your **username** (or email address) and **password**. Make sure you fill out both fields correctly to avoid problems.
 
 Most platforms, like Pogo, let you easily get your password back if you forget it. Just click the "Forgot Password?" link. You will get step-by-step instructions on how to change your password and get back into your account.
 
-### Step 3: Optional: Turn on Two-Factor Authentication
+**Step 3: Optional: Turn on Two-Factor Authentication**
 
 You might want to turn on "two-factor authentication" (2FA) to make your Pogo account safer. You have to enter a code sent to your phone or email every time you log in to make your account even safer. This is something people should do to keep their accounts safe, but it's not required.
 
-### Step 4: Begin!
+**Step 4: Begin!**
 
 Once you're logged in, you can start looking at the games on the Pogo homepage. It's easy to find all the games on Pogo. You can play them alone, with friends, or as a puzzle. All you have to do is pick a game and go!
 
