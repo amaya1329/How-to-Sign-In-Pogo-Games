@@ -1,11 +1,9 @@
 How to Sign In Pogo Games?
-
 ============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
 
 
 Pogo Games is one of the few online gaming sites that has stayed fun and popular over the years. Pogo has kept millions of people around the world entertained for decades with its many casual and multiplayer games. Many people, from serious gamers to people who just want to pass the time, find Pogo easy to use and fun. Signing in to Pogo Games is one of the most important things you can do to get to all the fun things that Pogo has to offer. In this article, we'll talk about why you should sign up for Pogo Games, show you how to do it, and talk about the benefits of having an account on the site.
